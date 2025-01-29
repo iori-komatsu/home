@@ -54,8 +54,8 @@
     #   org.gradle.daemon.idletimeout=3600000
     # '';
 
-    ".config/starship.toml".source = ./starship.toml;
-    ".gitconfig".source = ./gitconfig;
+    ".config/starship.toml".source = ./config/starship.toml;
+    ".gitconfig".source = ./config/gitconfig;
   };
 
   # Home Manager can also manage your environment variables through
