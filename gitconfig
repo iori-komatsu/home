@@ -1,0 +1,9 @@
+[user]
+	email = iori.komatsu@gmail.com
+	name = Iori Komatsu
+[core]
+	excludesfile = /home/komatsu/.gitignore
+[push]
+	default = simple
+[pull]
+	rebase = true
